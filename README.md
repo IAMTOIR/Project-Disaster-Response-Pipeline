@@ -1,7 +1,7 @@
 # **Disaster Response Pipeline Project**
 **Link to GitHub Repository**
 
-`[https://github.com/huynguyenanh2000/Disaster-Response-Pipeline.git](https://github.com/IAMTOIR/Project-Disaster-Response-Pipeline)`
+`https://github.com/IAMTOIR/Project-Disaster-Response-Pipeline`
 
 ## **Table of contents**
 
