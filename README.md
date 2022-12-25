@@ -30,7 +30,7 @@ workspace
     |-- models
         |-- classifier.pkl
         |-- train_classifier.py
-    |-- Preparation
+    |-- notebooks
         |-- ETL Pipeline Preparation.ipynb
         |-- ML Pipeline Preparation.ipynb
     |-- README
